@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+
+
+    <item
+        android:id="@+id/hom_nav"
+        android:title="Acceuil"
+        android:icon="@drawable/ic_home_black_24dp"
+        />
+
+
+    <item
+        android:id="@+id/Parcourir"
+        android:title="Parcourir"
+        android:icon="@drawable/ic_content_copy_black"
+        />
+
+
+    <item
+        android:id="@+id/favoris_nav"
+        android:title="Favoris"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        />
+
+    <item
+        android:id="@+id/profils_nav"
+        android:title="Profil"
+        android:icon="@drawable/ic_person_black_24dp"
+        />
+
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Want</string>
+    <string name="notification_channel_id">myCanal</string>
+    <string name="notification_channel_title">myTitle</string>
+    <string name="notification_channel_desc">test canal</string>
+
+    ///teste bub bannier
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    /// intersticial image
+    ///teste pube image intersticiel pour tester ca-app-pub-3940256099942544/1033173712
+    <string name="interstitial_id_image">ca-app-pub-3940256099942544/1033173712</string>
+
+    ///interstician_video_et_image
+    <string name="interstitial_Video">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

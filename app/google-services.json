@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "475914989258",
+    "firebase_url": "https://want-servise-suport.firebaseio.com",
+    "project_id": "want-servise-suport",
+    "storage_bucket": "want-servise-suport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475914989258:android:c92991d79768ff33",
+        "android_client_info": {
+          "package_name": "fr.horso.kevin.want"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475914989258-78qosk6dch4ido69vp187hjic9ishllk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.horso.kevin.want",
+            "certificate_hash": "45e822896d341d62c71ab1d9012ec6bfba8d03c4"
+          }
+        },
+        {
+          "client_id": "475914989258-voson13vm617qf0ji5gbr0psbavumo99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.horso.kevin.want",
+            "certificate_hash": "78322474ecb2e647d03531e608d06e1067283288"
+          }
+        },
+        {
+          "client_id": "475914989258-mklsq9asd3c9v9soqbspo6eikokc6fb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QaClQ3sRKTK_WwiQYr-zS6NSf9AJZXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475914989258-mklsq9asd3c9v9soqbspo6eikokc6fb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2983017470343859~2617788894"
+    }
+  ],
+  "configuration_version": "1"
+}
