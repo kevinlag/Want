@@ -61,7 +61,7 @@ public class MainActivityInscription extends AppCompatActivity {
 
 
 
-        //Redirige vers la page  "MainActivity" aprés 6 seconde je sat pas quesque sa fait la :)
+        //Redirige vers la page  "MainActivity" aprés 6 seconde
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {

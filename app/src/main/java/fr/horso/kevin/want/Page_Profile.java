@@ -17,6 +17,7 @@ import com.google.firebase.auth.FirebaseAuth;
 public class Page_Profile extends AppCompatActivity  {
 
     private Button btn_2_deconection;
+
     private Button btn_Mon_Profile;
     private Button btn_R_Discorde;
     private Button btn_vendre_2;

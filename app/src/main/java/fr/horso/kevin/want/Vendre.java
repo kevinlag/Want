@@ -47,6 +47,7 @@ public class Vendre extends AppCompatActivity {
     private EditText newuserprix;
     private EditText newusertitre;
     private Button btndesconfirme;
+
     private Uri postImageUri = null ;
     private StorageReference mStorageRef;
     private FirebaseFirestore firebaseFirestore ;

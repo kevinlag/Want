@@ -95,6 +95,7 @@
                 android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                 android:textColor="#7E7E7E"
                 android:textSize="20dp"
+                android:text="tesye "
                 android:layout_marginTop="22dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
